@@ -6,7 +6,7 @@ npm install npm@2
 NPM=./node_modules/.bin/npm
 
 $NPM install
-$NPM shrinkwrap --dev
+$NPM shrinkwrap
 
 rm -r node_modules/subpackage-*/
 
