@@ -1,0 +1,10 @@
+{
+  "name": "npm-shrinkwrap-path-issue",
+  "private": true,
+  "dependencies": {
+    "subpackage-1": "file:subpackage-1"
+  },
+  "devDependencies": {
+    "npm": "2"
+  }
+}
