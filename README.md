@@ -1,7 +1,7 @@
 Path issues in npm shrinkwrap
 =============================
 
-How to reproduce:
+How to reproduce [npm issue #10453](https://github.com/npm/npm/issues/10453):
 
 1. Clone this git repository
 2. Run `./reproduce.sh`
